@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-online-web-ft-031119",
+  "version": "1.0.0",
+  "description": "learn lab",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinm78/npm-lab-online-web-ft-031119.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachinm78/npm-lab-online-web-ft-031119/issues"
+  },
+  "homepage": "https://github.com/sachinm78/npm-lab-online-web-ft-031119#readme"
+}
